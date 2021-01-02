@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Sección 3 cap.10</title>
+  </head>
+  <body>
+    <h1>Crear formularios en HTML</h1>
+    <hr />
+    <h2>Formulario con etiqueta form</h2>
+    <form>
+      <p>
+        <label for="nombre">Nombre</label>
+        <input type="text" name="nombre" placeholder="Escribe tu nombre..." />
+      </p>
+      <p>
+        <label for="descripcion">Descripción</label>
+        <textarea name="descripcion" cols="30" rows="10"></textarea>
+      </p>
+      <input type="radio" name="genero" value="hombre" />Hombre <br />
+      <input type="radio" name="genero" value="mujer" />Mujer <br />
+      <input type="radio" name="genero" value="quimera" />Quimera <br />
+      <br />
+      <select name="generodos" id="">
+        <option value="hombre">Hombre</option>
+        <option value="mujer">Mujer</option>
+        <option value="quimera">Quimera</option>
+      </select>
+
+      <input type="submit" value="Enviar formulario" />
+    </form>
+  </body>
+</html>

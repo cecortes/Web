@@ -1,0 +1,60 @@
+<mxfile host="65bd71144e" modified="2021-01-02T00:52:48.437Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.52.1 Chrome/83.0.4103.122 Electron/9.3.5 Safari/537.36" version="13.10.0" etag="pAW4iBZ8wmFwp3laYd0H" type="embed">
+    <diagram id="9iuzidfIbH0h9_h2bggP" name="Page-1">
+        <mxGraphModel dx="754" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="3" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=22;" vertex="1" parent="1">
+                    <mxGeometry x="40" width="680" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="4" value="Encabezado" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+                    <mxGeometry x="330" y="20" width="100" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="8" value="" style="strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.android.rrect;rSize=0;strokeColor=#888888;fillColor=#444444;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+                    <mxGeometry x="40" y="120" width="360" height="120" as="geometry"/>
+                </mxCell>
+                <mxCell id="9" value="&lt;font style=&quot;font-size: 12px&quot;&gt;Menu con enlace a otras páginas 1&lt;/font&gt;" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.android.rrect;rSize=0;align=left;spacingLeft=10;fontSize=8;fontColor=#ffffff;" vertex="1" parent="8">
+                    <mxGeometry width="360" height="29.999999999999996" as="geometry"/>
+                </mxCell>
+                <mxCell id="10" value="&lt;span style=&quot;font-size: 12px&quot;&gt;Menu con enlace a otras páginas 2&lt;/span&gt;" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.android.rrect;rSize=0;align=left;spacingLeft=10;fontSize=8;fontColor=#ffffff;" vertex="1" parent="8">
+                    <mxGeometry y="29.999999999999996" width="360" height="29.999999999999996" as="geometry"/>
+                </mxCell>
+                <mxCell id="11" value="&lt;span style=&quot;font-size: 12px&quot;&gt;Menu con enlace a otras páginas 3&lt;/span&gt;" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.android.rrect;rSize=0;align=left;spacingLeft=10;fontSize=8;fontColor=#ffffff;" vertex="1" parent="8">
+                    <mxGeometry y="59.99999999999999" width="360" height="29.999999999999996" as="geometry"/>
+                </mxCell>
+                <mxCell id="12" value="&lt;span style=&quot;font-size: 12px&quot;&gt;Menu con enlace a otras páginas 4&lt;/span&gt;" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.android.rrect;rSize=0;align=left;spacingLeft=10;fontSize=8;fontColor=#ffffff;" vertex="1" parent="8">
+                    <mxGeometry y="90" width="360" height="29.999999999999996" as="geometry"/>
+                </mxCell>
+                <UserObject label="Link" link="https://www.draw.io" id="13">
+                    <mxCell style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=center;verticalAlign=middle;fontColor=#0000EE;fontStyle=4;" vertex="1" parent="8">
+                        <mxGeometry x="220" width="60" height="30" as="geometry"/>
+                    </mxCell>
+                </UserObject>
+                <UserObject label="Link" link="https://www.draw.io" id="14">
+                    <mxCell style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=center;verticalAlign=middle;fontColor=#0000EE;fontStyle=4;" vertex="1" parent="8">
+                        <mxGeometry x="220" y="32.5" width="60" height="25" as="geometry"/>
+                    </mxCell>
+                </UserObject>
+                <UserObject label="Link" link="https://www.draw.io" id="15">
+                    <mxCell style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=center;verticalAlign=middle;fontColor=#0000EE;fontStyle=4;" vertex="1" parent="8">
+                        <mxGeometry x="220" y="60" width="60" height="30" as="geometry"/>
+                    </mxCell>
+                </UserObject>
+                <UserObject label="Link" link="https://www.draw.io" id="16">
+                    <mxCell style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=center;verticalAlign=middle;fontColor=#0000EE;fontStyle=4;" vertex="1" parent="8">
+                        <mxGeometry x="220" y="90" width="60" height="30" as="geometry"/>
+                    </mxCell>
+                </UserObject>
+                <mxCell id="18" value="Subtitulo" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fontSize=16;" vertex="1" parent="1">
+                    <mxGeometry x="40" y="280" width="280" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="19" value="" style="outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#D05C17;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.container_registry_image;" vertex="1" parent="1">
+                    <mxGeometry x="40" y="400" width="210" height="210" as="geometry"/>
+                </mxCell>
+                <mxCell id="20" value="&lt;span style=&quot;font-family: &amp;#34;open sans&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; text-align: justify ; background-color: rgb(69 , 69 , 69)&quot;&gt;&lt;font style=&quot;font-size: 7px&quot;&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur eget ex est. Quisque non felis at augue maximus pellentesque quis et enim. Donec quis nibh libero. Nullam et porta orci, rhoncus scelerisque lectus. Sed aliquam diam magna, vel dignissim nunc fringilla sit amet. In id metus pellentesque, tempor purus hendrerit, volutpat est. Proin et justo eget eros tincidunt scelerisque non eu magna. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. In hac habitasse platea dictumst. Suspendisse pharetra lacinia lectus, in sagittis libero pharetra in. Donec tincidunt dui a eros egestas, id viverra massa pharetra. Vestibulum suscipit lorem libero, eu suscipit ex molestie sed. Curabitur non lobortis ante, eu fringilla dui.&lt;/font&gt;&lt;/span&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#999999;strokeWidth=1;whiteSpace=wrap;align=left;verticalAlign=middle;spacingLeft=10;fontSize=14;spacing=10;labelBackgroundColor=none;fontColor=#FFFF00;" vertex="1" parent="1">
+                    <mxGeometry x="40" y="640" width="360" height="160" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
