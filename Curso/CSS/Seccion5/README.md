@@ -1,7 +1,7 @@
 <h1> Primeros pasos con CSS </h1>
 <h2> Contenido: </h2>
 <hr>
-<ul>
+<ol>
   <li>Primeros pasos </li>
   <li>Selectores </li>
   <li>Fuentes y colores </li>
@@ -12,4 +12,4 @@
   <li>Relayivo, absoluto y fijo </li>
   <li>Transiciones y animaciones </li>
   <li>Proyecto completo </li>
-</ul>
+</ol>
