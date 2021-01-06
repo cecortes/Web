@@ -1,0 +1,35 @@
+@font-face {
+  font-family: XanhCustom;
+  src: url(Curso/CSS/Seccion7/Xanh_Mono/XanhMono-Italic.ttf);
+}
+
+h1 {
+  font-family: "Roboto", sans-serif;
+  font-style: oblique;
+  text-transform: uppercase;
+  font-size: 45px;
+
+  /* Colores */
+  /* Colores del sistema */
+  color: mediumpurple;
+  /* Colores hexadecimales */
+  color: #f02b11;
+  /* Colores RGB */
+  color: rgb(255, 125, 100);
+  /* Colores RGBA */
+  color: rgba(107, 146, 15, 0.226);
+}
+
+h3 {
+  font-family: XanhCustom;
+  font-size: 35px;
+  font-weight: lighter;
+  color: olivedrab;
+  color: #1b8d678f;
+}
+
+p {
+  font-family: sans-serif;
+  font-size: 18px;
+  font-weight: bolder;
+}

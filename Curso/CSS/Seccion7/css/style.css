@@ -1,0 +1,28 @@
+* {
+  background-color: #283253;
+}
+
+h1 {
+  color: antiquewhite;
+}
+
+h2 {
+  color: burlywood;
+}
+
+#menu > li > a {
+  color: #f44336;
+  text-decoration: none;
+  font-size: 25px;
+  padding: 5px;
+}
+
+footer {
+  padding: 20px;
+  font-size: 35px;
+  color: aqua;
+}
+
+footer a {
+  color: mediumseagreen;
+}
