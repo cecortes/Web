@@ -1,0 +1,26 @@
+#boton {
+  display: block;
+  padding: 20px;
+  background-color: crimson;
+  color: aliceblue;
+  width: 130px;
+  text-align: center;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: bold;
+  text-decoration: none;
+  border: 2px solid rgb(119, 10, 32);
+  /* Transiciones de todos los atributos en seg*/
+  /*transition: all 3s;*/
+  /* Transiciones de todos los atributos en mseg*/
+  /*transition: all 200ms;*/
+  /* Transiciones solo al border*/
+  /*transition: border 3500ms;*/
+  /* Transiciones con diferente rate*/
+  transition: border 500ms, background-color 3s, border-radius 1s;
+}
+
+#boton:hover {
+  border-radius: 15px;
+  background-color: rgb(212, 103, 1);
+  border: 2px solid black;
+}

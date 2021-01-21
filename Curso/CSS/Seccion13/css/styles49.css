@@ -1,0 +1,61 @@
+* {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+ul li {
+  font-size: 20px;
+}
+
+/* Pseudoclase después de los :*/
+ul li:first-child {
+  color: blue;
+  font-weight: bold;
+}
+
+/* Segundo elemento de la lista */
+ul li:nth-child(2) {
+  color: brown;
+  font-weight: bold;
+}
+
+/* último elemento de la lista */
+ul li:last-child {
+  color: rebeccapurple;
+  font-weight: bold;
+}
+
+/* Pseudoclases para enlace */
+#mi-enlace {
+  font-size: 30px;
+  color: lightcoral;
+}
+
+/* Enlace no visitado */
+#mi-enlace:link {
+  color: chocolate;
+}
+
+/* Enlace visitado */
+#mi-enlace:visited {
+  color: black;
+}
+
+/* Pseudo clases a cualquier elemento */
+#mi-enlace:hover {
+  color: blue;
+}
+
+#mi-enlace:active {
+  color: red;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+}
+
+input[type="text"] {
+  margin-top: 20px;
+  padding: 10px;
+}
+
+/*Pseudoclases focus */
+input[type="text"]:focus {
+  border: 4px dashed red;
+}

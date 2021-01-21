@@ -1,0 +1,78 @@
+#boton {
+  display: block;
+  padding: 20px;
+  background-color: crimson;
+  color: aliceblue;
+  width: 130px;
+  text-align: center;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: bold;
+  text-decoration: none;
+  border: 2px solid rgb(119, 10, 32);
+  /* Transiciones de todos los atributos en seg*/
+  /*transition: all 3s;*/
+  /* Transiciones de todos los atributos en mseg*/
+  /*transition: all 200ms;*/
+  /* Transiciones solo al border*/
+  /*transition: border 3500ms;*/
+  /* Transiciones con diferente rate*/
+  transition: border 500ms, background-color 3s, border-radius 1s;
+}
+
+#boton:hover {
+  border-radius: 15px;
+  background-color: rgb(212, 103, 1);
+  border: 2px solid black;
+}
+
+#caja {
+  width: 250px;
+  height: 250px;
+  background-color: gray;
+  color: white;
+  border: 5px solid black;
+  margin-top: 25px;
+  font-size: 20px;
+  text-align: center;
+  line-height: 240px;
+  /*Aplicar animación de keyframe*/
+  animation-name: desplazamiento;
+  animation-duration: 20s;
+  animation-iteration-count: infinite;
+  /*Cambiar el tipo de animación por defecto*/
+  animation-timing-function: linear;
+}
+
+/*Animaciones KeyFrames solo con dos keyframes
+@keyframes desplazamiento {
+  from {
+    margin-left: 0px;
+  }
+  to {
+    margin-left: 1200px;
+  }
+}*/
+
+/* Animaciones KeyFrames con porcentaje */
+@keyframes desplazamiento {
+  0% {
+    margin-left: 0px;
+    /*Transformaciones CSS*/
+    transform: rotate(0deg);
+  }
+  50% {
+    margin-left: 1200px;
+    /*Transformaciones CSS*/
+    transform: rotate(360deg);
+    border-radius: 999px;
+  }
+  75% {
+    background-color: red;
+    border-radius: 0px;
+  }
+  100% {
+    margin-left: 0px;
+    /*Transformaciones CSS*/
+    transform: rotate(0deg);
+  }
+}
